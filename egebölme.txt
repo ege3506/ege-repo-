@@ -1,0 +1,6 @@
+def bölme():
+       a=8
+       b=2
+       c=a/B
+       print(c)
+bölme()
